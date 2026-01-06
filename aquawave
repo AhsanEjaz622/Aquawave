@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AQUAWAVE – Botanical Hydration</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4fbfa;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 30px;
+            background: white;
+        }
+        header img {
+            max-width: 220px;
+        }
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .product {
+            background: white;
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #1f6f78;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .order-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background: #1f6f78;
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #1f6f78;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="Gemini_Generated_Image_99898n99898n9989.png" alt="Aquawave Logo">
+    <h1>AQUAWAVE</h1>
+    <p>Botanical Hydration</p>
+</header>
+
+<section>
+    <div class="product">
+        <h2>Morning Mist Shampoo</h2>
+        <p>
+            A refreshing botanical shampoo designed to cleanse, hydrate, and
+            strengthen hair while supporting scalp health.
+        </p>
+
+        <h3>Ingredients</h3>
+        <ul>
+            <li>Sodium Cocoyl Isethionate</li>
+            <li>Decyl Glucoside</li>
+            <li>Cocamidopropyl Betaine</li>
+            <li>Argan Oil</li>
+            <li>Aloe Vera</li>
+            <li>Hydrolyzed Keratin</li>
+            <li>Biotin (Vitamin B7)</li>
+            <li>Rosemary Oil</li>
+            <li>Caffeine</li>
+            <li>Apple Cider Vinegar</li>
+            <li>Salicylic Acid</li>
+        </ul>
+
+        <a class="order-btn" href="https://wa.me/1234567890">ORDER NOW</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 AQUAWAVE | Botanical Hydration</p>
+</footer>
+
+</body>
+</html>
